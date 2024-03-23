@@ -1,6 +1,6 @@
 # fmt
 
-gleam string template formatter
+gleam string format
 
 ```gleam
 import gleeunit
